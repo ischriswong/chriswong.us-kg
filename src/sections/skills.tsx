@@ -154,7 +154,7 @@ export default function skills() {
       title: "Languages",
       skills: [
         {
-          name: "Chinese",
+          name: "Mandarin",
           icon: ChineseIcon, // 修改为Chinese.png
         },
         {
